@@ -18,7 +18,7 @@ https://youtu.be/yS28hD1U510
 
 https://docs.google.com/presentation/d/1Qw6UY_Gq6qr4AMkINuz_jFWKFtwDtxL_2s3I3hWa3Z0/edit?usp=sharing
 
-video: tbd
+video:  https://youtu.be/S_9Sn5-Slv0
 
 Videos:
 
